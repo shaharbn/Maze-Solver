@@ -9,7 +9,7 @@ Features both a text‑based and GUI interface, supports multiple solving algori
 ## Features
 
 - **Maze generation**: randomized depth‑first backtracking  
-- **Multiple solvers**: DFS 
+- **Algoritem solver**: DFS 
 - **Visualization**: real‑time drawing of maze and solution path  
 - **Modular design**: clean separation of maze logic, point/cell models, and display  
 - **Unit tests**: verify maze connectivity and solver correctness  
